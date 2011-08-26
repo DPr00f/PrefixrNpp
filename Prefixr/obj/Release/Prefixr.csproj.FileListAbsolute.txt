@@ -1,0 +1,19 @@
+C:\Documents and Settings\studio.SKAPUB\Local Settings\Application Data\Temporary Projects\Prefixr\bin\Release\Prefixr.dll
+C:\Documents and Settings\studio.SKAPUB\Local Settings\Application Data\Temporary Projects\Prefixr\bin\Release\Prefixr.pdb
+C:\Documents and Settings\studio.SKAPUB\Local Settings\Application Data\Temporary Projects\Prefixr\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\studio.SKAPUB\Local Settings\Application Data\Temporary Projects\Prefixr\obj\Release\Prefixr.frmMyDlg.resources
+C:\Documents and Settings\studio.SKAPUB\Local Settings\Application Data\Temporary Projects\Prefixr\obj\Release\Prefixr.Properties.Resources.resources
+C:\Documents and Settings\studio.SKAPUB\Local Settings\Application Data\Temporary Projects\Prefixr\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\studio.SKAPUB\Local Settings\Application Data\Temporary Projects\Prefixr\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\studio.SKAPUB\Local Settings\Application Data\Temporary Projects\Prefixr\obj\Release\Prefixr.dll
+C:\Documents and Settings\studio.SKAPUB\Local Settings\Application Data\Temporary Projects\Prefixr\obj\Release\Prefixr.pdb
+C:\plugins\Notepad++\Prefixr\Prefixr\bin\Release\Prefixr.dll
+C:\plugins\Notepad++\Prefixr\Prefixr\bin\Release\Prefixr.pdb
+C:\plugins\Notepad++\Prefixr\Prefixr\obj\Release\ResolveAssemblyReference.cache
+C:\plugins\Notepad++\Prefixr\Prefixr\obj\Release\Prefixr.Properties.Resources.resources
+C:\plugins\Notepad++\Prefixr\Prefixr\obj\Release\GenerateResource.read.1.tlog
+C:\plugins\Notepad++\Prefixr\Prefixr\obj\Release\GenerateResource.write.1.tlog
+C:\plugins\Notepad++\Prefixr\Prefixr\obj\Release\Prefixr.dll
+C:\plugins\Notepad++\Prefixr\Prefixr\obj\Release\Prefixr.pdb
+C:\plugins\Notepad++\Prefixr\Prefixr\obj\Release\ResGen.read.1.tlog
+C:\plugins\Notepad++\Prefixr\Prefixr\obj\Release\ResGen.write.1.tlog
